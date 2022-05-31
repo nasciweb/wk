@@ -1,3 +1,5 @@
+# Deus, Nosso Senhor Jesus Cristo, Nossa Senhora Aparecida
+# Desenvolvedor: André Luis Nascimento
 # wk
 Teste WK
 
